@@ -1,9 +1,16 @@
+# 👋 Hi, I’m Soroush Porhonar
+
+I'm a computer engineering student in Tehran-Qarb university, interested in Machine Learning, Web development, and Games .
+
+## 📂 Projects
+- 🔬 [Heart Disease Prediction](https://github.com/johnDoe/heart-disease-prediction)
+- 🎮 [2D Platformer Game](https://github.com/johnDoe/platformer-game)
+- 🧠 [EEG Signal Classifier](https://github.com/johnDoe/eeg-classifier)
+
+## 📫 How to Reach Me
+Email: Porhonar.soroush@gmail.com
+LinkedIn: (http://www.linkedin.com/in/soroush-porhonar)
 ## Hi there 👋
-
-<!--
-**Soroush-porhonar/soroush-porhonar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
