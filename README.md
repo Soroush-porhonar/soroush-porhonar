@@ -3,9 +3,7 @@
 I'm a computer engineering student in Tehran-Qarb university, interested in Machine Learning, Web development, and Games .
 
 ## 📂 Projects
-- 🔬 [Heart Disease Prediction](https://github.com/johnDoe/heart-disease-prediction)
-- 🎮 [2D Platformer Game](https://github.com/johnDoe/platformer-game)
-- 🧠 [EEG Signal Classifier](https://github.com/johnDoe/eeg-classifier)
+- 🎮 [tic tac toe game]([https://github.com/johnDoe/platformer-game](https://github.com/Soroush-porhonar/XO.web))
 
 ## 📫 How to Reach Me
 Email: Porhonar.soroush@gmail.com
