@@ -4,7 +4,7 @@ I'm a computer engineering student in Tehran-Qarb university, interested in Mach
 
 ## 📂 Projects
 - 🎮 [tic tac toe game][https://github.com/Soroush-porhonar/XO.web]
-
+- 🎮 [Platform - Game][https://github.com/Soroush-porhonar/soroush-runner]
 ## 📫 How to Reach Me
 Email: Porhonar.soroush@gmail.com
 LinkedIn: (http://www.linkedin.com/in/soroush-porhonar)
