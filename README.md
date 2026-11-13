@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="./dan-da-dan-ohayo.gif" height = "100px" width="75%" alt="Hi" style="object-fit: cover;>
+  <img src="./dan-da-dan-ohayo.gif"
+       height="150px"
+       width="50%"
+       alt="Hi"
+       style="object-fit: cover;">
 </p>
+
 <br/>
-    
+
 <p align="center">
-  <samp># Hi 👋, WELCOME
+  <samp># Hi 👋, WELCOME</samp>
 </p>
 
 ### Computer Engineering Student | AI Engineer, MERN-Stack Developer
