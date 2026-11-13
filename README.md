@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dan-da-dan-ohayo.gif" height = "100px" width="750%" alt="Hi" style="object-fit: cover;>
+  <img src="./dan-da-dan-ohayo.gif" height = "100px" width="75%" alt="Hi" style="object-fit: cover;>
 </p>
 <br/>
     
