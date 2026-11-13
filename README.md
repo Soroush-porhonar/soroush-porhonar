@@ -1,4 +1,11 @@
-# Hi 👋, I'm Soroush Porhonar
+<p align="center">
+  <img src="./dan-da-dan-ohayo.gif" height = "200px" width="100%" alt="Hi" style="object-fit: cover;>
+</p>
+<br/>
+    
+<p align="center">
+  <samp># Hi 👋, WELCOME
+</p>
 
 ### Computer Engineering Student | AI Engineer, MERN-Stack Developer
 
@@ -6,9 +13,7 @@
 
 - 🌱 I'm currently learning **Exploring software engineering, AI engineering, cybersecurity, system design, and computer science fundamentals while continuously expanding my technical skills.**
 
-- 📫 How to reach me **Porhonar.soroush@gmail.com**
-
-- 📄 Know about my experiences **[https://github.com/Soroush-porhonar/soroush-porhonar/blob/main/Soroush%20Porhonar%20CV%20(2).pdf](https://github.com/Soroush-porhonar/soroush-porhonar/blob/main/Soroush%20Porhonar%20CV%20(2).pdf)**
+- 📄 Know about my experiences **[My CV.](./Soroush%20Porhonar%20CV%20(2).pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
