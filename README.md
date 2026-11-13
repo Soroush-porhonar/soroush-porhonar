@@ -5,9 +5,8 @@
        alt="Hi"
        style="object-fit: cover;">
 </p>
-<br/>
 <p align="center">
-  <samp># Hiii, WELCOME👋</samp>
+  <samp> Hiii, WELCOME👋</samp>
 </p>
 
 ### I'm a Computer Engineering Student | AI Engineer, MERN-Stack Developer
