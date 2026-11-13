@@ -5,14 +5,12 @@
        alt="Hi"
        style="object-fit: cover;">
 </p>
-
 <br/>
-
 <p align="center">
-  <samp># Hi 👋, WELCOME</samp>
+  <samp># Hiii, WELCOME👋</samp>
 </p>
 
-### Computer Engineering Student | AI Engineer, MERN-Stack Developer
+### I'm a Computer Engineering Student | AI Engineer, MERN-Stack Developer
 
 - 🔭 I'm currently working on **Building full-stack web applications and exploring AI-powered applications, particularly LLMs and Retrieval-Augmented Generation (RAG).**
 
